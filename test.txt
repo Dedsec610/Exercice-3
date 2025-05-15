@@ -1,0 +1,2 @@
+Voici une phrase simple.
+Et voici une autre ligne contenant plusieurs mots.
